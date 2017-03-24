@@ -1,0 +1,18 @@
+body{
+	background-color: black;
+}
+
+#main-container{
+	width: 1000px;
+	text-align: center;
+	color: black;
+}
+
+.imgback{
+	background-image: url("./resources/images/the-flatiron-building.png");
+	color: white;
+}
+
+.foot{
+	
+}
